@@ -26,7 +26,8 @@ This commands includes
 • Other IP Commands e.g. show ip route etc.
 <BR>
 Program 4a
-![Screenshot 2025-04-17 141721](https://github.com/user-attachments/assets/77d9ca6a-6dbb-45c3-8e25-b88ad73cf973)
+![Screenshot 2025-04-17 141721](https://github.com/user-attachments/assets/24bda376-dd29-43de-88ff-894eca42c4ca).
+
 
 ## Output
 4a output
