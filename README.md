@@ -25,11 +25,13 @@ This commands includes
 <BR>
 • Other IP Commands e.g. show ip route etc.
 <BR>
-Program 4a
-![Screenshot 2025-04-17 141721](https://github.com/user-attachments/assets/24bda376-dd29-43de-88ff-894eca42c4ca).
 
 
+
+program 4a
+![Screenshot 2025-04-17 141721](https://github.com/user-attachments/assets/d5da546c-911b-45ff-93ad-4c30fe97628e)
 ## Output
+
 4a output
 ![Screenshot (36)](https://github.com/user-attachments/assets/e76f0e70-8ba6-48cd-8d0b-622c42f786cf)
 4b output
