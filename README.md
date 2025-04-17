@@ -25,8 +25,14 @@ This commands includes
 <BR>
 • Other IP Commands e.g. show ip route etc.
 <BR>
+Program 4a
+![Screenshot 2025-04-17 141721](https://github.com/user-attachments/assets/77d9ca6a-6dbb-45c3-8e25-b88ad73cf973)
 
 ## Output
+4a output
+![Screenshot (36)](https://github.com/user-attachments/assets/e76f0e70-8ba6-48cd-8d0b-622c42f786cf)
+4b output
+![Screenshot (37)](https://github.com/user-attachments/assets/a3bf42c0-6100-4f91-9cc8-66bab288502d)
 
 ## Result
 Thus Execution of Network commands Performed 
