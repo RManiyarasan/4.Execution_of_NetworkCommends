@@ -35,8 +35,7 @@ Program 4a
 
 4a output
 ![Screenshot (36)](https://github.com/user-attachments/assets/e76f0e70-8ba6-48cd-8d0b-622c42f786cf)
-4b output
-![Screenshot (37)](https://github.com/user-attachments/assets/a3bf42c0-6100-4f91-9cc8-66bab288502d)
+
 
 ## Result
 Thus Execution of Network commands Performed 
